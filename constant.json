@@ -1,0 +1,9 @@
+{
+  "keyboardBehaviour": "padding",
+  "bottom": 20,
+  "bottomWhenKeyboardOpen": 80,
+  "paddingBottom": 100,
+  "paddingWhenKeyboardOpen": 100,
+  "flatlistBottom": 30,
+  "flatlistBottomWhenKeyboardOpen": 102
+}
